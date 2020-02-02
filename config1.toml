@@ -1,0 +1,93 @@
+baseURL = "https://localhost:1313"
+languageCode = "en-us"
+title = "Industrial electronics design & special UAV wing development"
+theme = "infinity-hugo"
+
+[params]
+
+# Navigation
+[params.navigation]
+logo = "images/logo.png"
+home = "Home"
+about = "About"
+service = "Services"
+contact = "Contact"
+
+# Hero Area
+[params.hero]
+enable      = true
+bg          = "images/background.jpeg"
+title       = "AERONAUTICAL ENGINEERING"
+subtitle    = "Industrial electronics design & special UAV wing development"
+btnText     = "Get Started"
+
+
+# About Section
+[params.about]
+enable      = true
+heading     = "High lift aircraft wing production from 2m to 16m, Electronics Engineering, Volume Custom Semiconductors"
+description = "Aeronautical provides electronic engineering services, utilising the latest technology and methodology examples to enhance and accelerate the process of designing new electronic systems and consumer products. The company designs and produces its own schematic diagrams, mechanical CAD, Printed Circuit Boards PCB's, simulation data and custom integrated circuits (ASICS) utilising United States chip foundries. Recent projects include PCB's for LED lighting, DALI control gear & mobile devices. We have design unmanned aerial vehicle(s) manufacture and supply special purpose parts for educational UAV tests and special interest groups. The wing with 300mm dome can carry a Gyro stabilised camera for high quality cinematography work. Developers of Altium library components for Mean Well PCB mounted products and specific customer projects that enable faster time to market. We are creative industrial & electronics engineering at www.aeronautical.com.au & www.3duav.com camera. Download the report here."
+
+
+[[params.about.sliderItem]]
+image   = "images/about/1.jpg"
+[[params.about.sliderItem]]
+image   = "images/about/2.jpg"
+[[params.about.sliderItem]]
+image   = "images/about/3.jpg"
+[[params.about.sliderItem]]
+image   = "images/about/4.jpg"
+[[params.about.sliderItem]]
+image   = "images/about/5.jpg"
+[[params.about.sliderItem]]
+image   = "images/about/6.jpg"
+
+    
+# Service Section
+[params.service]
+enable      = true
+title       = "Product design and engineering"
+[[params.service.serviceItem]]
+icon    = "tf-strategy"
+title   = "Fully Responsive"
+description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+delay   = "0s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-circle-compass"
+title   = "Speed Optimized"
+description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+delay   = "0.2s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-anchor2"
+title   = "Tons of Feature"
+description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+delay   = "0.4s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-globe"
+title   = "Fully SEO Optimized"
+description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+delay   = "0.6s"
+    
+    
+# Call to Action Section
+[params.cta]
+enable      = true
+bg          = "images/call-to-action.jpg"
+title       = "Subscribe to our mailing list"
+
+[params.contact]
+enable      = true
+title       = "Get In Touch"
+subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
