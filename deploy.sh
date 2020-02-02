@@ -9,7 +9,7 @@ cd ..
 # cp CNAME docs
 cd _hugo
 # Build the project.
-hugo  # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t hugograyscale # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 mv public/* ../docs
