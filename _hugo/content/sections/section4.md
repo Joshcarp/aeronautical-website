@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-weight: 4
+weight: 5
 ---
 
 ## Contact Us Today

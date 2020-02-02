@@ -1,6 +1,6 @@
 ---
 title: "Privacy and Legal"
-weight: 5
+weight: 6
 ---
 
 ## Privacy and Legal
