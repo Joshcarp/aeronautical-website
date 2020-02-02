@@ -3,7 +3,7 @@ title: "Contact"
 weight: 4
 ---
 
-## Contact Start Bootstrap
+## Contact Us Today
 
 Feel free to get in contact with us today 
 
