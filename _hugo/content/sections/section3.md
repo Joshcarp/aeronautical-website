@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Gallery"
 weight: 4
 ---
 
@@ -17,5 +17,3 @@ Aeronautical provides electronic engineering support for Microchip Technology
 {{< figure link="/img/wing/7.jpg" caption=`Integrated servo drive for control surfaces, electric re-tractable landing gear and provisions for a fuel bladder. A modular engine mount allows for an EFI petrol engine providing 5kg of thrust.` >}}
 {{< figure link="/img/wing/8.jpg" caption=`Total of 6 rear control surfaces. Vast array of sensor’s and options. Front dome area is for an additional sensor. Up to 20 liters of combined payload area for 3m wing.` >}}
 {{< /gallery >}}
-
-<!-- {{< gallery dir="/img/wing/" />}} {{< load-photoswipe >}} -->
