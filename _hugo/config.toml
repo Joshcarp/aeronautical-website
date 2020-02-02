@@ -1,6 +1,6 @@
-baseURL = "https://runningstream.github.io/hugograyscale/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Hugo Grayscale Theme"
+title = "aeronautical"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -10,8 +10,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     description = "A port of the Grayscale theme to Hugo"
 
 [Author]
-    name = "RunningStream"
-    email = "dco@runningstream.net"
+    name = "mario carpeggiani"
+    email = "mario@aeronautical.com.au"
 
 [Social]
-    twitter = "stream_running"
+    linkein = "carpeggiani"
