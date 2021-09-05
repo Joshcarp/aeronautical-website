@@ -1,4 +1,4 @@
-baseURL = "https://joshcarp.github.io/aeronautical-website/"
+baseURL = "https://aeronautical.github.io/website/"
 languageCode = "en-us"
 title = "aeronautical"
 theme = "hugograyscale"
