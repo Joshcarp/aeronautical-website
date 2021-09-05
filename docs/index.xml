@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aeronautical on aeronautical</title>
-    <link>https://aeronautical.github.io/website/</link>
+    <link>https://aeronautical.github.io/</link>
     <description>Recent content in Aeronautical on aeronautical</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>mario@aeronautical.com.au (mario carpeggiani)</managingEditor>
     <webMaster>mario@aeronautical.com.au (mario carpeggiani)</webMaster>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://aeronautical.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://aeronautical.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
